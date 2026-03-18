@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.qodo/
+
+# Data (too large for git)
+dataset/
+dataset2/
+
+# Model checkpoints (large binary files)
+final_results/*/best_model.pth
+First_results/*/best_model.pth
+**/*.pth
+**/*.pt
+**/*.ckpt
+**/*.zip
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

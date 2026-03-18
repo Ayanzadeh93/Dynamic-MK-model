@@ -1,0 +1,28 @@
+{
+    "MK-UNet Original": {
+        "accuracy": 0.941991341991342,
+        "precision": 0.9734660033167496,
+        "recall": 0.9200626959247649,
+        "f1_score": 0.9460112812248187,
+        "specificity": 0.9690522243713733,
+        "sensitivity": 0.9200626959247649,
+        "roc_auc": 0.9808456067376897,
+        "avg_precision": 0.9875314680045515,
+        "best_epoch": 55,
+        "training_time_min": 16.91530123154322,
+        "total_params": 124040
+    },
+    "MK-UNet Dynamic": {
+        "accuracy": 0.9497835497835497,
+        "precision": 0.9769736842105263,
+        "recall": 0.9310344827586207,
+        "f1_score": 0.9534510433386838,
+        "specificity": 0.9729206963249516,
+        "sensitivity": 0.9310344827586207,
+        "roc_auc": 0.9805242446475022,
+        "avg_precision": 0.9879579096928093,
+        "best_epoch": 65,
+        "training_time_min": 17.716340152422585,
+        "total_params": 139016
+    }
+}

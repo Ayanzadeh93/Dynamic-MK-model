@@ -1,0 +1,11 @@
+Classification Report
+==================================================
+
+              precision    recall  f1-score   support
+
+     Class 0     0.6098    1.0000    0.7576        25
+     Class 1     0.0000    0.0000    0.0000        16
+
+    accuracy                         0.6098        41
+   macro avg     0.3049    0.5000    0.3788        41
+weighted avg     0.3718    0.6098    0.4619        41

@@ -1,0 +1,18 @@
+{
+    "data_dir": "dataset2",
+    "num_classes": 2,
+    "image_size": 224,
+    "num_epochs": 100,
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.5,
+    "drop_path_rate": 0.1,
+    "use_mixup": true,
+    "mixup_alpha": 0.2,
+    "label_smoothing": 0.1,
+    "early_stopping": false,
+    "patience": 15,
+    "num_workers": 0,
+    "results_dir": "final_results/mkunet_comparison"
+}

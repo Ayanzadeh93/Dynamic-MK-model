@@ -1,0 +1,28 @@
+{
+    "MK-UNet Original": {
+        "accuracy": 0.9402597402597402,
+        "precision": 0.9879931389365352,
+        "recall": 0.9028213166144201,
+        "f1_score": 0.9434889434889435,
+        "specificity": 0.9864603481624759,
+        "sensitivity": 0.9028213166144201,
+        "roc_auc": 0.9786051672598728,
+        "avg_precision": 0.9857772236838097,
+        "best_epoch": 49,
+        "training_time_min": 16.270125857988994,
+        "total_params": 124040
+    },
+    "MK-UNet Improved": {
+        "accuracy": 0.9463203463203463,
+        "precision": 0.9736842105263158,
+        "recall": 0.9278996865203761,
+        "f1_score": 0.9502407704654896,
+        "specificity": 0.9690522243713733,
+        "sensitivity": 0.9278996865203761,
+        "roc_auc": 0.986236001042911,
+        "avg_precision": 0.9905456340655876,
+        "best_epoch": 73,
+        "training_time_min": 44.417958267529805,
+        "total_params": 583038
+    }
+}

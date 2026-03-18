@@ -1,0 +1,20 @@
+{
+    "M1_Original": {
+        "accuracy": 0.9419,
+        "precision": 0.9735,
+        "recall": 0.9201,
+        "f1_score": 0.9460,
+        "roc_auc": 0.9808,
+        "params": 124040,
+        "training_time_min": 16.92
+    },
+    "M2_Dynamic": {
+        "accuracy": 0.9498,
+        "precision": 0.9770,
+        "recall": 0.9310,
+        "f1_score": 0.9535,
+        "roc_auc": 0.9805,
+        "params": 139016,
+        "training_time_min": 17.72
+    }
+}
